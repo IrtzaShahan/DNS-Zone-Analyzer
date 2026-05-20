@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg?logo=python&logoColor=white)
 
 ## Architecture
-This repository contains hundreds of lines of structured Python modules for the `SYS` domain.
+This repository contains hundreds of lines of structured Python modules for the `SYS` domain to be used as needed.
 
 ## Structure
 ```text
